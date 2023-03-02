@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Maschine test\CurdApplication\CurdApplication\obj\Debug\net6.0\CurdApplication.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Maschine test\CurdApplication\CurdApplication\obj\Debug\net6.0\CurdApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Maschine test\CurdApplication\CurdApplication\obj\Debug\net6.0\CurdApplication.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Maschine test\CurdApplication\CurdApplication\obj\Debug\net6.0\CurdApplication.AssemblyInfo.cs
+C:\Users\HP\Desktop\Maschine test\CurdApplication\CurdApplication\obj\Debug\net6.0\CurdApplication.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Maschine test\CurdApplication\CurdApplication\obj\Debug\net6.0\CurdApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Maschine test\CurdApplication\CurdApplication\obj\Debug\net6.0\CurdApplication.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\Maschine test\CurdApplication\CurdApplication\obj\Debug\net6.0\CurdApplication.RazorAssemblyInfo.cs
